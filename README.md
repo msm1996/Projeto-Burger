@@ -16,5 +16,8 @@ O objetivo foi praticar a criação de layouts atrativos, com destaque para prod
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <br>
 <h2>📸 Imagem do projeto:</h2> 
+<img src = "https://github.com/msm1996/Projeto-Burger/blob/main/Captura%20de%20tela%202025-08-29%20225432.png?raw=true">
+
+ <a>✍ Feito por [Myke Santana Martins:](https://www.linkedin.com/in/myke-santana-martins)<a/>
 
 
